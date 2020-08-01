@@ -651,7 +651,11 @@
       "noAdding": true
     },
     "100047765739940": {
-      "reason": "spam report (reported by https://fb.com/100009285954354) | https://imgur.com/a/LVc9bdw",
+      "reason": "spam report (reported by https://fb.com/100009285954354) | https://imgur.com/a/TSj9wXh",
+      "noAdding": true
+    },
+    "100025496921350": {
+      "reason": "spam report | https://imgur.com/a/LVc9bdw",
       "noAdding": true
     }
   },
